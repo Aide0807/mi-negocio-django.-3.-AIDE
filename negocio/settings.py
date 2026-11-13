@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-78f@9ds*o#v$k6jun694myuf$8hvh@42t0&=wvox$p2vkr(r8o'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['mi-negocio-django-3-aide.onrender.com']
 
